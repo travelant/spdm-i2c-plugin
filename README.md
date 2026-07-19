@@ -27,7 +27,7 @@ Copy SPDM-i2c.lua into that lua plugin path.
 
 Restart wireshark if wireshark is runnig.
 
-Check wireshark menu, Help==>about wireshark ==> plugins, you can find SPDM-i2c.lua is list, which means SPDM-i2c.lua is installed.
+Check wireshark menu, Help==>about wireshark ==> plugins, you can find SPDM-i2c.lua is in list, which means SPDM-i2c.lua is installed.
 
 
 
