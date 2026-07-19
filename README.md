@@ -44,3 +44,6 @@ if the package has spdm protocal, you can find that spdm is also dissected.
 Examples folder contains spdm-dissector.pcap, which is real data for people to exam this function. User can use wireshark with spdm plugin installed to open this spdm-dissector.pcap.
 
 Examples folder contains wireshark-spdm-screenshot.png, which is screenshot of wireshark with spdm plugin installed to show dissection of spdm-dissector.pcap.
+
+<img width="1378" height="1096" alt="wireshark-spdm-screenshot" src="https://github.com/user-attachments/assets/b2afa858-ab3d-4ce9-a873-69e3214ff186" />
+
