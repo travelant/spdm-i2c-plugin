@@ -1,5 +1,5 @@
 <img width="1380" height="1106" alt="wireshark-spdm-screenshot" src="https://github.com/user-attachments/assets/67063e8d-b902-4dcf-9a55-cbdac041c06b" />
-<img width="1380" height="1106" alt="wireshark-spdm-screenshot" src="https://github.com/user-attachments/assets/e709061c-cd33-47fd-a4f7-692e986d249c" />
+
 README
 
 # spdm-i2c-plugin
@@ -47,5 +47,6 @@ Examples folder contains spdm-dissector.pcap, which is real data for people to e
 
 Examples folder contains wireshark-spdm-screenshot.png, which is screenshot of wireshark with spdm plugin installed to show dissection of spdm-dissector.pcap.
 
-<img width="1378" height="1096" alt="wireshark-spdm-screenshot" src="https://github.com/user-attachments/assets/b2afa858-ab3d-4ce9-a873-69e3214ff186" />
+<img width="1380" height="1106" alt="wireshark-spdm-screenshot" src="https://github.com/user-attachments/assets/dbbeef7f-6cf7-45bf-9428-f51c4deb6008" />
+
 
