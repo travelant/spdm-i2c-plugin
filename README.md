@@ -1,3 +1,5 @@
+<img width="1380" height="1106" alt="wireshark-spdm-screenshot" src="https://github.com/user-attachments/assets/67063e8d-b902-4dcf-9a55-cbdac041c06b" />
+<img width="1380" height="1106" alt="wireshark-spdm-screenshot" src="https://github.com/user-attachments/assets/e709061c-cd33-47fd-a4f7-692e986d249c" />
 README
 
 # spdm-i2c-plugin
