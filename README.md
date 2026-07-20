@@ -23,7 +23,7 @@ git clone https://github.com/travelant/spdm-i2c-plugin.git
 
 ### Install plugin
 
-Open wireshark menu， Help==》 about wireshark ==》 folders ==》 global lua plugins， you can find lua plugin path. In my case the path is "D:\\Users\\<userid>\\Downloads\\WiresharkPortable64\\App\\Wireshark\\plugins"
+Open wireshark menu， Help==》 about wireshark ==》 folders ==》 global lua plugins， you can find lua plugin path. In my case the path is "D:\\Users\\*userid*\Downloads\\WiresharkPortable64\\App\\Wireshark\\plugins"
 
 Copy SPDM-i2c.lua into that lua plugin path.
 
